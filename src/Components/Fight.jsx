@@ -3,7 +3,7 @@ import { useParams } from "react-router-dom";
 import axios from "axios";
 
 import "./CSS/Fight.css";
-import "./CSS/pokeball.css";
+import "./CSS/Pokeball.css";
 import PokemonThemeAudio from "../sounds/Pokemon-Theme-Song.mp3";
 
 export default function PokemonPage() {
