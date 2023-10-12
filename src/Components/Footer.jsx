@@ -1,6 +1,6 @@
-import Facebook from "../assets/facebook.svg";
-import Instagram from "../assets/instagram.svg";
-import Twitter from "../assets/twitter.svg";
+import Facebook from "../assets/Facebook.svg";
+import Instagram from "../assets/Instagram.svg";
+import Twitter from "../assets/Twitter.svg";
 import "./CSS/Footer.css";
 export default function Footer() {
   return (
