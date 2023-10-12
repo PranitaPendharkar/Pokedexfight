@@ -68,7 +68,7 @@ export default function Footer() {
         <div className="sb__footer-below">
           <div className="sb__footer-copyright">
             <p>
-              @{new Date().getFullYear()} WBS Group Four. All rights are
+              @ {new Date().getFullYear()} WBS Group Four. All rights are
               reserved.
             </p>
           </div>
